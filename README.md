@@ -31,7 +31,7 @@ python infer.py \
   --sequence '담대한' \
   --model_name 'model1' \
   --maxlen 300 \
-  --sample True \
+  --sample True
  ```
  
 # 최종 결과물
