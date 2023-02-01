@@ -1,6 +1,6 @@
 # 제4회 AI x Bookathon
 
-제 4회 AI x Bookathon 대회에 사용된 코드 입니다. 자세한 후기와 저희 팀이 접근 하였던 방법은 [이 곳](https://cyc9805.github.io/python/project/AIxBookathon-참여후기/)에서 찾아 보실 수 있습니다
+제 4회 AI x Bookathon 대회에 사용된 코드 입니다. 자세한 후기와 저희 팀이 접근 하였던 방법은 [이 곳](https://cyc9805.github.io/python/project/AIxBookathon-참여후기/)에서 찾아 보실 수 있습니다.
 
 # Data Crawling
 
@@ -33,3 +33,7 @@ python infer.py \
   --maxlen 300 \
   --sample True \
  ```
+ 
+# 최종 결과물
+
+&emsp; 저희가 생성한 작품의 제목은 ['과거에서 찾은 나'](https://github.com/cyc9805/AIxBookathon/blob/main/북커톤(최종작)_과거에서%20찾은%20나.pdf)로, 주인공이 모네의 작품과 타인을 만나며 자신의 삶을 담대하게 맞서 나가는 스토리 입니다.
