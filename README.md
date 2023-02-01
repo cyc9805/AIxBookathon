@@ -12,7 +12,7 @@
 
 # Training
 
-&emsp; 모델 훈련은 다음과 같이 진행 하였습니다:
+&emsp; 모델 훈련은 다음과 같이 진행 하였습니다.
 ```python
 python train.py \
   --data_name 'collected_data.txt' \
@@ -21,13 +21,15 @@ python train.py \
   --epoch 5 \
   --save_steps 500 \
   --overwrite_ouput_dir True 
-  
+```
+
 # Inferring
 
-&emsp; 모델을 통한 다음 문장 생성은 다음과 같이 진행 하였습니다:
+&emsp; 모델을 통한 다음 문장 생성은 다음과 같이 진행 하였습니다.
 ```python
 python infer.py \
   --sequence '담대한' \
   --model_name 'model1' \
   --maxlen 300 \
   --sample True \
+ ```
